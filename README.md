@@ -45,7 +45,7 @@ Isso iniciará o aplicativo no emulador ou dispositivo conectado.
 ## Estilização com Native Base
 Este projeto utiliza o Native Base como uma biblioteca de componentes para estilização. Os estilos e componentes fornecidos pelo Native Base facilitam o desenvolvimento de interfaces consistentes e visualmente atraentes.
 
-Para mais informações sobre como utilizar o Native Base, consulte a (documentação oficial)[https://docs.nativebase.io/].
+Para mais informações sobre como utilizar o Native Base, consulte a [documentação oficial](https://docs.nativebase.io/).
 
 ## Contribuição
 
